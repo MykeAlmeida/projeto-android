@@ -48,8 +48,8 @@ header h1{
 header p{
     text-align: center;
     font-size: 1.2em;
+    margin: auto auto 30px auto;
     max-width: 500px;
-    margin: auto;
 }
 
 header nav{
